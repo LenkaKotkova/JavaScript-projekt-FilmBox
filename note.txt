@@ -1,0 +1,21 @@
+CSFD / Zebricky / Film / obrazek / inspect / network / jpeg / 
+
+6. ukol - premiery - aby pred rozdilem dni nebylo minus
+const date= dazjs (fimData.premiera)
+const diff = date diff(dazjs(), "days")
+
+const dnesDatum = dayjs().startOf('day')
+const premiera = dayjs(filmData.premiera).startOf('day')
+
+dokumentace v JS?
+https://www.w3schools.com/js/default.asp
+
+Kontakt na oksanu
+
+https://www.linkedin.com/in/oksana-mironova-4108a9a9/
+
+https://exercism.org/
+
+JavaScript Algorithms and Data Structures (Beta) Certification | freeCodeCamp.org
+
+JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
